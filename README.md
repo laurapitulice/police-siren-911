@@ -3,7 +3,6 @@
 Year 1 team project: Bluetooth-controlled Police Siren in Arduino IDE (C++), with hardware implementation using ESP32.
 
 ## 🛠️ Components Used
-To replicate this project, you will need the following hardware:
 * **Microcontroller:** ESP-32
 * **Sound:** 1x Buzzer
 * **Visuals:** 1x Blue LED, 1x Red LED 
@@ -19,7 +18,6 @@ The assembly is built on a breadboard with the following configurations:
 * **LEDs:** Connected to **Pin 18** and **Pin 22**. They are wired in series with resistors; the anodes (+) connect to the pins, and the cathodes (-) connect to Ground (GND).
 * **Buzzer:** The positive terminal is connected to **Pin 16**, and the negative terminal is connected to Ground (GND).
 * **Connection:** The ESP32 is linked to the laptop via a USB-A to MicroUSB cable for programming in **Arduino IDE 2.3.2**.
-
 
 
 ## 🕹️ Functionality & Features
