@@ -25,7 +25,7 @@ The project utilizes the `BluetoothSerial` library to receive commands from the 
 
 ### Siren Patterns
 1.  **Pattern 1 (Wail):** Gradually increases frequency from 600Hz to 1200Hz and back. LEDs flash alternately during the transition.
-2.  **Pattern 2 (Yelp):** Alternates quickly between 800Hz and 1000Hz tones[cite: 84, 87, 94]. [cite_start]This is accompanied by rapid LED blinking
+2.  **Pattern 2 (Yelp):** Alternates quickly between 800Hz and 1000Hz tones. This is accompanied by rapid LED blinking
 3.  **Stopped:** Silences the buzzer and turns off all LEDs.
 
 ### Bluetooth Control
