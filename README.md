@@ -1,6 +1,6 @@
 
 # 🚨 ESP32 "Police Siren" 
-Year 1 team project: Bluetooth-controlled Police Siren in Arduino IDE (C++), with hardware implementation using ESP32.
+Year 1 team project: Bluetooth-controlled Police Siren in Arduino IDE (C++), with hardware implementation using ESP32. It features two different patterns controlled from an Android phone via Bluetooth, integrating flashing LEDs and adjustable buzzer frequencies.
 
 ## Components Used
 * **Microcontroller:** ESP-32
